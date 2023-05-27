@@ -10,6 +10,7 @@
 
 body {
   padding-top: 36px;
+  overflow-x: hidden;
 }
 
 .row {
@@ -43,9 +44,6 @@ body {
   font-size: 1.5rem;
   padding: 0 0 4px 12px;
   color: black;
-}
-
-.nav__menu-links--wraper {
 }
 
 .nav__menu-links {
@@ -165,14 +163,8 @@ button:hover {
   display: none;
 }
 
-.menu--open .nav__menu--close-menu {
-}
-
 .nav-mobile__menu-links--wrapper {
   display: flex;
-}
-
-.nav__menu--wrapper {
 }
 
 .menu--open .menu--open-background {
@@ -372,10 +364,6 @@ h2 {
   padding: 34px 16px;
 }
 
-.features__service-item--icon {
-  /* width: 25%; */
-}
-
 .features__service-item--icon img {
   border: 1px solid rgb(226, 226, 226);
   padding: 16px;
@@ -507,9 +495,6 @@ h2 {
   display: flex;
   width: 100%;
   flex-wrap: wrap;
-}
-
-.values__service-item--icon {
 }
 
 .values__affordable--img {
@@ -674,9 +659,6 @@ p.pricing__column-item--features-list-item {
 .pricing__colunm-item--second-child
   .pricing__column-item--heading-cost-frequency {
   color: white;
-}
-
-.pricing__column-item--heading-cost-frequency {
 }
 
 .button__call-to-action--first-child,
@@ -1091,9 +1073,6 @@ footer {
     padding-right: 24px;
   }
 
-  .get-started__button--get-started {
-    /* margin-bottom: 16px; */
-  }
   .get-started__wrapper {
     padding: 60px 80px;
   }
@@ -1215,9 +1194,6 @@ footer {
   }
   .values__service-item--heading-wrapper {
     margin: 0 auto;
-  }
-
-  .get-started__buttons--wrapper {
   }
 }
 
@@ -1413,9 +1389,6 @@ footer {
 
   main.row {
     margin-top: 48px;
-  }
-
-  .pre-footer__menu-links--wrapper {
   }
 }
 
