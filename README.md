@@ -4,4 +4,5 @@ Treact Duplicate Challenge is a simple landing page meant to demonstrate layout 
 
 Demo: https://frostjelly.github.io/treact-challenge/ 
 
-![Uploading Treact.png…]()
+
+![Treact](https://github.com/frostjelly/treact-challenge/assets/101598503/1312cef3-ace6-47b9-a8ce-0ed2a1dc9684)
