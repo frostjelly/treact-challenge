@@ -8,9 +8,15 @@
     Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+html {
+  overflow-x: hidden;
+  position: relative;
+}
+
 body {
   padding-top: 36px;
   overflow-x: hidden;
+  position: absolute;
 }
 
 .row {
