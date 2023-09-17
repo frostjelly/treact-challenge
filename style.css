@@ -16,7 +16,7 @@ html {
 body {
   padding-top: 36px;
   overflow-x: hidden;
-  position: absolute;
+  position: relative;
 }
 
 .row {
@@ -124,6 +124,15 @@ button:hover {
 .nav__menu--hmburger-menu-img,
 .nav__menu--close-menu-img {
   width: 2.25rem;
+
+}
+
+.menu--open .nav__menu--hmburger-menu-img,
+.nav__menu--close-menu-img {
+  position: fixed;
+  top: 42px;
+  right: 36px
+
 }
 
 .nav-mobile__menu-links {
